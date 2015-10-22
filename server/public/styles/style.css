@@ -1,0 +1,25 @@
+.start {
+    margin-left: 400px;
+    margin-top: 30px
+}
+
+.person {
+    width: 25%;
+    margin: 40px;
+    padding: 20px 40px 20px 40px;
+    text-align: center;
+    float: left;
+    background-color: #e1e9a7;
+}
+
+.image {
+    width: 200px;
+    height: 200px;
+}
+
+.delete {
+    height: 32px;
+    margin-top: 20px;
+    background-color: #65262d;
+    color: white;
+}
